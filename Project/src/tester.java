@@ -1,7 +1,7 @@
 
 public class tester {
 	private int x=0;
-	
+	private int y=5;
 	public void counter(int z) {
 		while (x<=z) {
 			x++;
